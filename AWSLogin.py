@@ -17,5 +17,5 @@ region = "YOUR_PREFERRED_REGION"
 aws_login(access_key_id, secret_access_key, region)
 
 """
-Replace "YOUR_ACCESS_KEY_ID", "YOUR_SECRET_ACCESS_KEY", and "YOUR_PREFERRED_REGION" with your actual AWS IAM user credentials and preferred region. After running this script, your AWS CLI will be configured with the provided credentials, allowing you to interact with AWS services via the CLI.
+Replace "YOUR_ACCESS_KEY_ID", "YOUR_SECRET_ACCESS_KEY", and "YOUR_PREFERRED_REGION" with your actual AWS IAM user credentials and preferred region. After running this script, your AWS CLI will be configured with the provided credentials, allowing you to interact with AWS services via the CLI. 
 """
